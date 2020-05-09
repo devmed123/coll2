@@ -1,0 +1,73 @@
+
+ /*font-family: 'Roboto', sans-serif;*/
+ *{
+     box-sizing: border-box;
+ }
+#a{ 
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    
+   
+}
+ 
+
+nav{
+    border: 2px solid black;
+}
+
+.container h1{
+    margin: 20px;
+}
+ 
+.chicken1 {
+   
+     padding:  10px;
+   
+ }
+.tp4 , .tp5 , .tp6{
+    text-align: center;
+    
+ }
+ 
+ .toto .chicken1 .ab p{
+     padding-top: 20px;
+     background-color:gray;
+ }
+.ab{
+    background-color:gray;
+    border: 1px solid black;
+    
+ }
+ .tp2{
+     font-family: sans-serif;
+     font-weight: bold;
+ }
+ 
+ h1{
+     font-family: monospace;
+ }
+ .tp4 ,.tp5,.tp6{
+    font-family: inherit;
+    font-size: 30px;
+
+ }
+ 
+ 
+ #a1{
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: bold;
+    float: right;
+ }
+ 
+ #tp{
+    
+     padding: 10px;
+ }
+ .div{
+     background-color: gray;
+ }
+
